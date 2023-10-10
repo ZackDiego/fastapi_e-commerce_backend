@@ -1,6 +1,6 @@
 # Nodejs-blog: Markdown Blog Website
-## Project created following tutorial from [freeCodeCamp.org](https://www.youtube.com/watch?v=0sOvCWFmrtA&t=51919s)
-## and the project is altered to e-commerce needs which organize products instead of posts
+Project created following tutorial from [freeCodeCamp.org](https://www.youtube.com/watch?v=0sOvCWFmrtA&t=51919s)
+The project is altered for e-commerce needs, which organize products instead of posts
 
 ## Table of contents
 * [General info](#general-info)
@@ -9,7 +9,7 @@
 * [Setup](#setup)
 * [Project Structure](#project-structure)
 * [API URL Paths](#api-url-paths)
-* [API Testing](#url-paths)
+* [API Testing](#api-testing)
 
 ## General info
 This project is simple REST API about products that can perform CRUD.
@@ -25,6 +25,7 @@ Project is created with:
 - Install [Python](https://www.python.org) version 3.11.5
 - Install [PostgreSQL](https://www.postgresql.org) version 16
 - Create .env file with variables:
+
 | Variable Name              | Description                                         |
 |----------------------------|----------------------------------------------------|
 | `DATABASE_HOSTNAME`   | The hostname or IP address where PostgreSQL database server is hosted.            |
@@ -44,7 +45,7 @@ $ uvicorn app.main:app
 ```
 
 ## Project Structure
-The folder structure of this app is explained below:
+File structure of the app is explained below:
 | Name                  | Description                                                                     |
 |-----------------------|-------------------------------------------------------------------------------------------|
 | **app/routers/**      | Directory containing FastAPI routes    |
