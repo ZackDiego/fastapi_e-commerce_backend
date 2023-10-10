@@ -1,5 +1,5 @@
 # Python API development with FastAPI
-Project created following tutorial from [freeCodeCamp.org](https://www.youtube.com/watch?v=0sOvCWFmrtA&t=51919s)
+Project created following tutorial from [freeCodeCamp.org](https://www.youtube.com/watch?v=0sOvCWFmrtA&t=51919s).  
 The project is altered for e-commerce needs, which organize products instead of posts
 
 ## Table of contents
